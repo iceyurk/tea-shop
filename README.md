@@ -1,2 +1,2 @@
 # [凱的飲料店](https://iceyurk.github.io/tea-shop/)
-![image]( https://raw.githubusercontent.com/fandowg/fandowShop/master/public/screenshot_1.jpg)  
+![image]( https://github.com/iceyurk/tea-shop/blob/main/img/screenshot_1.jpg)  
